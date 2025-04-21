@@ -1,0 +1,28 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+
+# VSCode settings
+.vscode/
+
+# macOS junk
+.DS_Store
+
+# Environment
+.env
+venv/
+ENV/
+*.env
+
+# SQLite databases
+*.db
+
+# Arduino build
+*.ino.*
+build/
+
+# Logs
+*.log
